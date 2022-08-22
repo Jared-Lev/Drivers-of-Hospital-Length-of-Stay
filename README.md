@@ -18,6 +18,6 @@ The major findings of this work are as follows:
       -Heart failure
       -Chronic obstructive pulmonary disease
       -Preoperative sepsis, which is systemic infalmmation brough on by the body's response to infection
-    - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. This is likely due to the undersampling
-    of long LOS times in the data.
+    - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. 
+    This is likely due to the undersampling of long LOS times in the data.
     
