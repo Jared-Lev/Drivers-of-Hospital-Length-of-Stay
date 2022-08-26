@@ -5,8 +5,9 @@ Hospital length of stay (LOS) is defined as the length of time a patient remains
 
 1) Cleaned the data and imputed missing values using random forest classification/regression
 2) Performed exploratory data analysis/visualization, and hypothesis-testing with parametric and non-parametric methods
-3) Engineered features to account for multicollinearity and class imbalance of categorical features
-4) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
+to identify potential features of interest for predictive modeling
+4) Engineered features to account for multicollinearity and class imbalance of categorical features
+5) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
 a multivariable negative binomial regression model using k-fold cross validation 
 
 The major findings of this work are as follows:
@@ -16,7 +17,7 @@ The major findings of this work are as follows:
     - Pre-existing conditions were associated with longer length of stay, including:
       -Heart failure
       -Chronic obstructive pulmonary disease
-      -Preoperative sepsis, which is systemic infalmmation brough on by the body's response to infection
+      -Preoperative sepsis, which is systemic inflammation caused by the body's response to infection
     - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. 
     This is likely due to the undersampling of long LOS times in the data.
     
