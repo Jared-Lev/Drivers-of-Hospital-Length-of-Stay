@@ -5,7 +5,7 @@ Hospital length of stay (LOS) is defined as the length of time a patient remains
 
 1) Cleaned the data and imputed missing values using random forest classification/regression
 2) Performed exploratory data analysis/visualization, and hypothesis-testing with parametric and non-parametric methods
-to identify potential features of interest for predictive modeling
+to identify features of interest for predictive modeling
 4) Engineered features to account for multicollinearity and class imbalance of categorical features
 5) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
 a multivariable negative binomial regression model using k-fold cross validation 
