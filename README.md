@@ -1,14 +1,15 @@
 # Hospital Length of Stay
 Predict length of stay following major surgery at a large metropolitan US hospital
 
-Hospital length of stay (LOS) is defined as the length of time a patient remains in the hospital following a medical procedure. Being able to accurately predict LOS would reduce hospital and insurance costs, and free up healthcare workers to attend to the needs of additonal patients, and is therefore a major goal of the healthcare community. In this project, I made use of a rich dataset containing demographic information, lab values and other health data, and detailed information related to the procedure and post-operative status from nearly 800 patients who underwent major colorectal surgery to identify the features that are most predictive of LOS. To do so, I took the following steps:
+Hospital length of stay (LOS) is defined as the length of time a patient remains in the hospital following a medical procedure. Being able to accurately predict LOS is a major goal of the healthcare community as it would reduce hospital and insurance costs, and free up healthcare workers to attend to the needs of more patients. Here I use of a dataset containing demographic information, general health data, lab values, and detailed procedural data
+from patients who underwent major colorectal surgery to identify the features that are most predictive of LOS. To do so, I took the following steps:
 
 1) Cleaned the data and imputed missing values using random forest classification/regression
 2) Performed exploratory data analysis/visualization, and hypothesis-testing with parametric and non-parametric methods
 to identify features of interest for predictive modeling
 4) Engineered features to account for multicollinearity and class imbalance of categorical features
 5) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
-a multivariable negative binomial regression model using k-fold cross validation 
+a multivariable negative binomial regression model using k-fold cross validation to predict LOS. 
 
 The major findings of this work are as follows:
 
