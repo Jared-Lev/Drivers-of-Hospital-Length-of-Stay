@@ -23,8 +23,9 @@ The major findings of this work are as follows:
       -Preoperative sepsis, which is systemic inflammation caused by the body's response to infection
     ![image](https://user-images.githubusercontent.com/89553765/195166397-2200463c-c5de-4c65-a8b6-b8ef093bba10.png)
     
-- The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. 
-    This is likely due to the undersampling of long LOS times in the data.
+- The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times, who make up 88% of the 
+dataset. 
+    This error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
 
 ![image](https://user-images.githubusercontent.com/89553765/195165798-52bb44aa-0b5d-4d4b-8792-1e52cd7c9e6a.png)
 
