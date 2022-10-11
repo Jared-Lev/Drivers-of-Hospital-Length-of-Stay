@@ -26,6 +26,7 @@ The major findings of this work are as follows:
 - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times, who make up 88% of the 
 dataset. 
     This error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
+
 ![image](https://user-images.githubusercontent.com/89553765/195170245-ebe85b6c-3856-4f37-95ef-b0e964a5ae5b.png)
 
 
