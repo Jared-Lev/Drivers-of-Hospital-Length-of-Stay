@@ -27,7 +27,7 @@ The major findings of this work are as follows:
 dataset. 
     This error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
 
-![image](https://user-images.githubusercontent.com/89553765/195165798-52bb44aa-0b5d-4d4b-8792-1e52cd7c9e6a.png)
+![image](https://user-images.githubusercontent.com/89553765/195169008-6a5c2486-d306-4317-992a-eec5e740e9d4.png)
 
 
 
