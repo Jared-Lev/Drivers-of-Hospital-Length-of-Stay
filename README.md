@@ -10,7 +10,7 @@ to identify features of interest for predictive modeling
 4) Engineered features to account for multicollinearity and class imbalance of categorical features
 5) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
 a multivariable negative binomial regression model using k-fold cross validation to predict LOS. 
-![image](https://user-images.githubusercontent.com/89553765/195164871-6085115b-1d44-4f34-bbb6-37cf43389d06.png)
+![image](https://user-images.githubusercontent.com/89553765/195169166-c1dc8e07-c6be-4005-b3be-12bfe51c3802.png)
 
 
 The major findings of this work are as follows:
