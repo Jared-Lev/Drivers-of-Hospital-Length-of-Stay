@@ -10,7 +10,8 @@ to identify features of interest for predictive modeling
 4) Engineered features to account for multicollinearity and class imbalance of categorical features
 5) Compared the fit of Poisson and negative binomial distributions to the highly-skewed LOS distribution, before developing
 a multivariable negative binomial regression model using k-fold cross validation to predict LOS. 
-![image](https://user-images.githubusercontent.com/89553765/195147856-fd2ad3ed-b9e2-4559-901f-54509ff12170.png)
+![image](https://user-images.githubusercontent.com/89553765/195164106-b187d53a-55e3-4145-8eba-5153268a1bd2.png)
+
 
 The major findings of this work are as follows:
 
@@ -22,7 +23,9 @@ The major findings of this work are as follows:
       -Preoperative sepsis, which is systemic inflammation caused by the body's response to infection
     - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. 
     This is likely due to the undersampling of long LOS times in the data.
-    
+
+![image](https://user-images.githubusercontent.com/89553765/195163909-72f343e4-25bb-4e5d-a9b6-5c8d0400bf6b.png)
+
 ![image](https://user-images.githubusercontent.com/89553765/195147500-a204d597-4ebd-454b-a550-e81bba171ce3.png)
 
 
