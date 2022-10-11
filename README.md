@@ -21,12 +21,14 @@ The major findings of this work are as follows:
       -Heart failure
       -Chronic obstructive pulmonary disease
       -Preoperative sepsis, which is systemic inflammation caused by the body's response to infection
+    ![image](https://user-images.githubusercontent.com/89553765/195147500-a204d597-4ebd-454b-a550-e81bba171ce3.png)
+    
     - The model was considerably more accurate at predicting LOS for patients with median or shorter LOS times. 
     This is likely due to the undersampling of long LOS times in the data.
 
 ![image](https://user-images.githubusercontent.com/89553765/195163909-72f343e4-25bb-4e5d-a9b6-5c8d0400bf6b.png)
 
-![image](https://user-images.githubusercontent.com/89553765/195147500-a204d597-4ebd-454b-a550-e81bba171ce3.png)
+
 
 
 
