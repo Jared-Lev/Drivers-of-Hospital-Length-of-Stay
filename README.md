@@ -34,7 +34,7 @@ dataset.
 Implications and future directions:
 
 - Albumin is a protein made by the liver that has two important functions in the body. Firstly, it acts as a carrier
-protein for many small biomolecules (eg hormones). Secondly, it prevents blood from leaking out of the the blood
+in the blood for many small molecules (e.g. ions, hormones). Secondly, it prevents blood from leaking out of the blood
 vessels. Given the substantial effect of albumin on LOS, understanding what factors might influence albumin levels may 
 therefore be important for improving surgical outcomes. 
 
