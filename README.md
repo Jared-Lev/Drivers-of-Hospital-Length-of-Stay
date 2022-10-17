@@ -41,9 +41,9 @@ therefore be important for improving surgical outcomes.
 
 ![image](https://user-images.githubusercontent.com/89553765/196256547-6d5dab16-42cf-40fa-8d01-e0baa62febad.png)
 
-Clearly, albumin decreases with age. Within the elderly population, functional dependence and is associated with lower
-levels. It may therefore be advisable to increase albumin levels preoperatively in these groups through preoperative
-protein supplementation.
+  Clearly, albumin decreases with age. Within the elderly population, functional dependence and is associated with lower
+  levels. It may therefore be advisable to increase albumin levels preoperatively in these groups through preoperative
+  protein supplementation.
 
 - INR is a measure of blood clotting efficiency. The results indicate that increased INR (slower clotting) is associated
 with longer LOS. Vitamin K has been shown to enhance clotting ability and lower INR, and the implication of this work is that
