@@ -38,7 +38,7 @@ in the blood for many small molecules (e.g. ions, hormones). Secondly, it preven
 vessels. Given the substantial effect of albumin on LOS, understanding what factors might influence albumin levels may 
 therefore be important for improving surgical outcomes. 
 
-![image](https://user-images.githubusercontent.com/89553765/196256547-6d5dab16-42cf-40fa-8d01-e0baa62febad.png)
+![image](https://user-images.githubusercontent.com/89553765/196274039-ad384ebe-3a25-41c3-b41a-478c3da1b722.png)
 
   Clearly, albumin decreases with age. Within the elderly population, functional dependence and is associated with lower
   levels. It may therefore be advisable to increase albumin levels preoperatively in these groups through preoperative
