@@ -36,17 +36,17 @@ Implications and future directions:
 
 - Albumin is a protein made by the liver that has two important functions in the body. Firstly, it acts as a carrier
 in the blood for many small molecules (e.g. ions, hormones). Secondly, it prevents blood from leaking out of the blood
-vessels. Given the substantial effect of albumin on LOS, understanding what factors might influence albumin levels may 
-therefore be important for improving surgical outcomes. 
+vessels. Given the substantial effect of albumin on LOS, knowing what factors might influence albumin levels could well
+improve surgical outcomes. 
 
 ![image](https://user-images.githubusercontent.com/89553765/196274039-ad384ebe-3a25-41c3-b41a-478c3da1b722.png)
 
-  Clearly, albumin decreases with age. Within the elderly population, functional dependence and is associated with lower
-  levels. It may therefore be advisable to increase albumin levels preoperatively in these groups through preoperative
-  protein supplementation.
+  Clearly, albumin decreases with age. Furthermore, within the elderly population, functional dependence is associated with 
+  lower albumin levels. It may therefore be advisable to increase albumin levels preoperatively in these groups through 
+  preoperative protein supplementation.
 
-- INR is a measure of blood clotting efficiency. The results indicate that increased INR (slower clotting) is associated
-with longer LOS. Vitamin K has been shown to enhance clotting ability and lower INR, and the implication of this work is that
-prescription of vitamin k preoperatively might decrease LOS, perhaps substantially, and is indicated for those with 
+- INR is a measure of blood clotting efficiency. The present results indicate that increased INR (slower clotting) is associated
+with longer LOS. Vitamin K has been shown to enhance clotting ability and lower INR, and the implication of the present analysis 
+is that prescription of vitamin k preoperatively might decrease LOS, perhaps substantially, and is indicated for those with 
 hight preoperative INR.
 
