@@ -11,7 +11,7 @@ to identify features of interest for predictive modeling
 4) Developed a multivariable negative binomial regression model using k-fold cross validation to: 1) predict LOS, and 2)identify
 important predictors of LOS.
 
-![image](https://user-images.githubusercontent.com/89553765/197885480-a1168ac4-e7c9-4def-a052-3d4ec974792c.png)
+![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
 
 
 
