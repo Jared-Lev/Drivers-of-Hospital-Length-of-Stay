@@ -31,7 +31,8 @@ by 0.8 days.
 dataset. 
     The error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
 
-![image](https://user-images.githubusercontent.com/89553765/197885008-7a4e74a6-8f1c-4a85-8595-ae1bf5caeb6e.png)
+![image](https://user-images.githubusercontent.com/89553765/197888763-05bedd8b-4136-4d6b-9ab1-46015e447a60.png)
+
 
 Implications and future directions:
 
