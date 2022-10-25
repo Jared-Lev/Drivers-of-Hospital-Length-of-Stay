@@ -43,7 +43,7 @@ improve surgical outcomes.
 
 ![image](https://user-images.githubusercontent.com/89553765/197847978-c4479edc-d8c3-4b23-9a86-1b45dec62197.png)
 
- Clearly, albumin decreases with age. Furthermore,functional dependence is associated with lower albumin levels (an older age). It may 
+ Clearly, albumin decreases with age. Furthermore, functional dependence is associated with lower albumin levels (an older age). It may 
  therefore be advisable to increase albumin levels in these groups through preoperative protein supplementation.
 
 - INR is a measure of blood clotting efficiency. The present results indicate that increased INR (slower clotting) is associated
