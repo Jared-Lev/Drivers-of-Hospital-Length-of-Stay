@@ -30,8 +30,8 @@ by 0.8 days.
 - The model was considerably more accurate at predicting LOS for patients with LOS less than 12 days, who make up 88% of the 
 dataset. 
     The error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
-
-![image](https://user-images.githubusercontent.com/89553765/198186211-f2e21dad-5940-44d4-a541-be2c61eb4be1.png)
+    
+![image](https://user-images.githubusercontent.com/89553765/198186332-6b6d062c-f143-4530-a0c5-44f0b34eff98.png)
 
 
 
