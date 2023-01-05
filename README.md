@@ -1,4 +1,4 @@
-# Hospital Length of Stay
+# Predicting Hospital Length of Stay
 Predict length of stay following major surgery at a large metropolitan US hospital
 
 Hospital length of stay (LOS) is defined as the length of time a patient remains in the hospital following a medical procedure. Being able to accurately predict LOS is a major goal of the healthcare community as it would reduce hospital and insurance costs, and free up healthcare workers to attend to the needs of more patients. Here I used a dataset containing demographic information, general health status, lab values, and detailed procedural information
