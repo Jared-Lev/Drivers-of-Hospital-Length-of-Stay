@@ -8,18 +8,19 @@ from patients who underwent major colorectal surgery to identify the features th
 2) Performed exploratory data analysis/visualization, and hypothesis-testing with parametric and non-parametric methods
 to identify features of interest for predictive modeling
 3) Engineered features to account for multicollinearity and class imbalance of categorical features
-4) Developed a multivariable negative binomial regression model using k-fold cross validation to: 1) predict LOS, and 2)identify
+4) Developed a regression model using k-fold cross validation to: 1) predict LOS, and 2)identify
 important predictors of LOS.
-
-![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
-
 
 
 The major findings of this work are as follows:
 
 
+-A negative binomial regression model with 15 features captures the major characteristics of the data's LOS distribution.
+![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
+
+
 - Higher levels of albumin, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
-n shortens LOS by 0.8 days.
+shortens LOS by 0.8 days
 - Higher international normalized ratio (INR), an indication of clotting ability, is associated with longer LOS: each unit increase 
 extends LOS by 1.8 days
 - Pre-existing conditions were associated with longer length of stay, including:  
