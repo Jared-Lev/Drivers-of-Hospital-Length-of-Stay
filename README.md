@@ -18,7 +18,7 @@ important predictors of LOS.
 The major findings of this work are as follows:
 
 
-- Higher levels of albuming, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
+- Higher levels of albumin, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
 n shortens LOS by 0.8 days.
 - Higher international normalized ratio (INR), an indication of clotting ability, is associated with longer LOS: each unit increase 
 extends LOS by 1.8 days
