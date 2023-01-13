@@ -18,14 +18,15 @@ important predictors of LOS.
 The major findings of this work are as follows:
 
 
-- Higher serum albumin levels were associated with shorter length of stay: each unit increase of albumin shortens LOS
-by 0.8 days.
-- Higher international normalized ratio (INR) is associated with longer LOS: each unit increase extends LOS by 1.8 days
+- Higher levels of albuming, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
+n shortens LOS by 0.8 days.
+- Higher international normalized ratio (INR), an indication of clotting ability, is associated with longer LOS: each unit increase 
+extends LOS by 1.8 days
 - Pre-existing conditions were associated with longer length of stay, including:  
       -Heart failure (1.65 days longer)  
       -Chronic obstructive pulmonary disease (1.2 days longer)
       
-    ![image](https://user-images.githubusercontent.com/89553765/195166397-2200463c-c5de-4c65-a8b6-b8ef093bba10.png)
+![image](https://user-images.githubusercontent.com/89553765/212435818-4a58de21-f0ec-41e8-b165-becff6990bc4.png)
     
 - The model was considerably more accurate at predicting LOS for patients with LOS less than 12 days, who make up 88% of the 
 dataset. 
