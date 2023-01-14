@@ -16,6 +16,7 @@ The major findings of this work are as follows:
 
 
 - A negative binomial regression model with 15 features accurately reproduced the main characteristics of the data's LOS distribution.
+
 ![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
 
 
