@@ -15,13 +15,13 @@ important predictors of LOS.
 The major findings of this work are as follows:
 
 
-- A negative binomial regression model with 15 features accurately reproduces the main characteristics of the data's LOS distribution.
+- A negative binomial regression model with 15 features accurately reproduced the main characteristics of the data's LOS distribution.
 ![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
 
 
 - Higher levels of albumin, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
 shortens LOS by 0.8 days
-- Higher international normalized ratio (INR), an indication of clotting ability, is associated with longer LOS: each unit increase 
+- Higher international normalized ratio (INR), an indication of clotting ability, was associated with longer LOS: each unit increase 
 extends LOS by 1.8 days
 - Pre-existing conditions were associated with longer length of stay, including:  
       -Heart failure (1.65 days longer)  
