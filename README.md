@@ -30,7 +30,7 @@ relationship here, with each additional complication increasing median LOS by ~3
 Of course, there was considerable interrelationship among many of the variables. That is why it will ultimately be important to control for the effects on individual features on LOS with a multivariable model. One particularly noteworthy illustration of this is the connection
 between age, functional health status, levels of albumin in the blood, and length of stay:
 
-![image](https://user-images.githubusercontent.com/89553765/197847978-c4479edc-d8c3-4b23-9a86-1b45dec62197.png)
+![image](https://user-images.githubusercontent.com/89553765/212999846-c53445c0-967f-4e19-948e-e4de3e25f870.png)
 
 
 Following EDA, features were selected for a negative binomial regression model, including race, number of complications, and albumin level. Additional features were included as controls on variables. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
