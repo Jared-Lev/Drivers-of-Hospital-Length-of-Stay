@@ -27,7 +27,7 @@ relationship here, with each additional complication increasing median LOS by ~3
 
 ![image](https://user-images.githubusercontent.com/89553765/212780762-15d01331-42db-465a-8fd9-adcddd2b1fe1.png)
 
-Of course, there was considerable interplay between many of the variables. That is why it will ultimately be important to control for the effects on individual features on LOS with a multivariable model. One particularly noteworthy illustration of this is the connection
+Of course, there was considerable interplay between many of the variables. One particularly noteworthy illustration of this is the connection
 between age, functional health status, levels of albumin in the blood, and length of stay:
 
 ![image](https://user-images.githubusercontent.com/89553765/212999846-c53445c0-967f-4e19-948e-e4de3e25f870.png)
