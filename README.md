@@ -35,7 +35,7 @@ between age, functional health status, levels of albumin in the blood, and lengt
 
 Following EDA, features were selected for a negative binomial regression model, including race, number of complications, and albumin level. Additional features were included on the basis of correlation analyses, including the Pearson's r and Kendall's tau, and as controls on variables. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
 
-![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
+![image](https://user-images.githubusercontent.com/89553765/213261230-2c25575f-99e5-4fd4-9461-f7f68caf1c17.png)
 
 
 Conclusions from the model:
