@@ -17,8 +17,8 @@ With nearly 800 patients and almost 200 features, I began with extensive explora
 features for the model.
 
 
-There turned out to be an interesting difference in LOS among the 4 race groups in the study. The most obvious trend was that white patients had
-a substantially longer LOS than Black/African American, hispanic or asian patients, as demonstrated by the rightward-shifted cumulative probability plot:
+There turned out to be an interesting difference in LOS among the 4 race groups in the study. The most obvious trend was that White patients had
+a substantially longer LOS than Black/African American, Hispanic or Asian patients, as demonstrated by the rightward-shifted cumulative probability plot:
 
 ![image](https://user-images.githubusercontent.com/89553765/212777042-c0d5aedd-050d-4ca0-8540-e81786c0240b.png)
 
@@ -33,7 +33,7 @@ between age, functional health status, levels of albumin in the blood, and lengt
 ![image](https://user-images.githubusercontent.com/89553765/212999846-c53445c0-967f-4e19-948e-e4de3e25f870.png)
 
 
-Following EDA, features were selected for a negative binomial regression model, including race, number of complications, and albumin level. Additional features were included as controls on variables. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
+Following EDA, features were selected for a negative binomial regression model, including race, number of complications, and albumin level. Additional features were included on the basis of correlation analyses, including the Pearson's r and Kendall's tau, and as controls on variables. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
 
 ![image](https://user-images.githubusercontent.com/89553765/197885769-83942a66-670e-4b1f-939a-daf9dc0c2cdc.png)
 
