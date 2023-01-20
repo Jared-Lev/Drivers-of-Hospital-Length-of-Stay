@@ -22,10 +22,6 @@ a substantially longer LOS than Black/African American, Hispanic or Asian patien
 
 ![image](https://user-images.githubusercontent.com/89553765/212777042-c0d5aedd-050d-4ca0-8540-e81786c0240b.png)
 
-Unsurprisingly, there was a clear positive correlation between the number of complications during surgery and LOS. There appeared to be a linear
-relationship here, with each additional complication increasing median LOS by ~3 days:
-
-![image](https://user-images.githubusercontent.com/89553765/212780762-15d01331-42db-465a-8fd9-adcddd2b1fe1.png)
 
 Of course, there was considerable interplay between many of the variables. One particularly noteworthy illustration of this is the connection
 between age, functional health status, levels of albumin in the blood, and length of stay:
