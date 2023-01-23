@@ -12,6 +12,10 @@ to identify features of interest for modeling
 3) Engineered features to account for multicollinearity and class imbalance of categorical features
 4) Developed a negative binomial regression model using k-fold cross validation
 
+The LOS distribution is heavily right-skewed, with a median LOS of 4 days, and the majority of patients staying a week or less.
+
+![image](https://user-images.githubusercontent.com/89553765/214152758-56decd3e-04a1-434e-b458-d66a468b213b.png)
+
 
 With nearly 800 patients and almost 200 features, I began with extensive exploratory data analysis, with the goal of identifying important
 features for the model.
