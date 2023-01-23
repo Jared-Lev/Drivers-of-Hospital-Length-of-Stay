@@ -1,14 +1,14 @@
-# Predicting Hospital Length of Stay
-Predict length of stay following major surgery at a large metropolitan hospital
+# Modeling Hospital Length of Stay
+Building and explanatory model of length of stay following major surgery at a large metropolitan hospital
 
-Hospital length of stay (LOS) is defined as the length of time a patient remains in the hospital following a medical procedure. Being able to accurately predict LOS is a major goal of the healthcare community as it would streamline care, and help to efficiently direct resources to patients most in need.  
+Hospital length of stay (LOS) is defined as the length of time a patient remains in the hospital following a medical procedure. Being able to accurately model LOS is a major goal of the healthcare community as it would streamline care, and help to efficiently direct resources to patients most in need.  
 
 In a collaboration with surgeons at a major metropolitan hospital, I used a dataset containing demographic information, general health status, lab values, and detailed procedural information
 from patients who underwent major colorectal surgery to identify the features that are most predictive of LOS. This work culminated in a model that predicts LOS within 2 days for over 60% of patients. To do so, I took the following steps:
 
 1) Cleaned the data and imputed missing values using random forest classification/regression
 2) Performed exploratory data analysis/visualization, and hypothesis-testing with parametric and non-parametric methods
-to identify features of interest for predictive modeling
+to identify features of interest for modeling
 3) Engineered features to account for multicollinearity and class imbalance of categorical features
 4) Developed a negative binomial regression model using k-fold cross validation
 
