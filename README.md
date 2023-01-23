@@ -18,7 +18,7 @@ The LOS distribution is heavily right-skewed, with a median LOS of 4 days, and t
 
 
 With nearly 800 patients and almost 200 features, I began with extensive exploratory data analysis, with the goal of identifying important
-features for the model.
+correlates of LOS.
 
 
 There turned out to be an interesting difference in LOS among the 4 race groups in the study. The most obvious trend was that White patients had
