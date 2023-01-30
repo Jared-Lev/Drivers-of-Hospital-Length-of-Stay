@@ -14,7 +14,7 @@ to identify features of interest for modeling
 
 The LOS distribution is heavily right-skewed, with a median LOS of 4 days, and the majority of patients staying a week or less.
 
-![image](https://user-images.githubusercontent.com/89553765/214152758-56decd3e-04a1-434e-b458-d66a468b213b.png)
+![image](https://user-images.githubusercontent.com/89553765/215565841-99dc688f-716f-46f4-a481-71b390c4eb8e.png)
 
 
 With nearly 800 patients and almost 200 features, I began with extensive exploratory data analysis, with the goal of identifying important
