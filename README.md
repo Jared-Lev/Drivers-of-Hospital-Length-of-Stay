@@ -64,10 +64,8 @@ Implications and future directions:
 in the blood for many small molecules (e.g. ions, hormones). Secondly, it prevents blood from leaking out of the blood
 vessels. Given the substantial effect of albumin on LOS, knowing what factors might influence albumin levels could well
 improve surgical outcomes. 
-
-
- Clearly, albumin decreases with age. Furthermore, functional dependence is associated with lower albumin levels (an older age). It may 
- therefore be advisable to increase albumin levels in these groups through preoperative protein supplementation.
+Clearly, albumin decreases with age. Furthermore, functional dependence is associated with lower albumin levels (an older age). It may 
+therefore be advisable to increase albumin levels in these groups through preoperative protein supplementation.
 
 - INR is a measure of blood clotting efficiency. The present results indicate that increased INR (slower clotting) is associated
 with longer LOS. Vitamin K has been shown to enhance clotting ability and lower INR, and the implication of the present analysis 
