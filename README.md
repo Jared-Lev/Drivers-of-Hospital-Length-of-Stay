@@ -33,12 +33,9 @@ between age, functional health status, levels of albumin in the blood, and lengt
 ![image](https://user-images.githubusercontent.com/89553765/212999846-c53445c0-967f-4e19-948e-e4de3e25f870.png)
 
 
-Following EDA, features were selected for a negative binomial regression model, including race, number of complications, and albumin level. Additional features were included on the basis of correlation analyses, including the Pearson's r and Kendall's tau, and as controls on variables. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
+Following EDA, features were selected for an explanatory negative binomial regression model. Ultimately, 15 features accurately reproduced the main characteristics of the data's LOS distribution.
 
 ![image](https://user-images.githubusercontent.com/89553765/213261230-2c25575f-99e5-4fd4-9461-f7f68caf1c17.png)
-
-
-Conclusions from the model:
 
 - Higher levels of albumin, a transport protein in the blood, were associated with shorter length of stay: each unit increase 
 shortens LOS by 0.8 days
@@ -48,15 +45,21 @@ extends LOS by 1.8 days
       -Heart failure (1.65 days longer)  
       -Chronic obstructive pulmonary disease (1.2 days longer)
       
-![image](https://user-images.githubusercontent.com/89553765/212435818-4a58de21-f0ec-41e8-b165-becff6990bc4.png)
-    
-- The model was considerably more accurate at predicting LOS for patients with LOS less than 12 days, who make up 88% of the 
-dataset. 
-    The error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
-    
-![image](https://user-images.githubusercontent.com/89553765/198186332-6b6d062c-f143-4530-a0c5-44f0b34eff98.png)
+![image](https://user-images.githubusercontent.com/89553765/223919866-ee88b741-d258-478a-bb70-4ecacad62a97.png)
 
+To assess the ability of a negative binomial regression model to predict LOS, I removed the 'binned_complications' feature from the independent variables, and used 10-fold cross-validation with root mean squared error as an error metric. I also built a after removing features with small coefficients from the full model that also showed little-to-no association with length of stay following exploratory data analysis:
 
+![image](https://user-images.githubusercontent.com/89553765/223918429-9fc52d8b-d856-4b2c-91b7-2535ca1cca36.png)
+
+The results show that the more compact model has equally high predictive utility.
+
+To better understand where the model was most failing, I examined RMSE as a function of LOS: 
+
+![image](https://user-images.githubusercontent.com/89553765/223915524-8ed8ceda-bb6a-43b8-a160-d5ebdaa013f0.png)
+
+The model was considerably more accurate at predicting LOS for patients with LOS less than 12 days, who make up 88% of the 
+dataset. The error in predicting longer LOS is due to the undersampling of long LOS times in the dataset, and would be reduced with more data.
+    
 
 Implications and future directions:
 
