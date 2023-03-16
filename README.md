@@ -50,7 +50,7 @@ To assess the ability of a negative binomial regression model to predict LOS, I 
 
 ![image](https://user-images.githubusercontent.com/89553765/223918429-9fc52d8b-d856-4b2c-91b7-2535ca1cca36.png)
 
-The results show that the more compact model has equally high predictive utility.
+The results show that the more compact model has equally high predictive accuracy.
 
 To better understand where the model was most failing, I examined RMSE as a function of LOS: 
 
